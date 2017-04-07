@@ -10,6 +10,7 @@ A collection of scripts written for or modified Oculus Utilities for working wit
 
 ## Handy Scripts
 
+
 ###### OVRHeadsetDelegate
 Handy script for taking advantage of the headset mounted/unmounted actions called by OVRManager for triggering events.
 
