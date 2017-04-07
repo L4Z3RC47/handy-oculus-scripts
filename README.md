@@ -3,8 +3,15 @@ A collection of scripts written for or modified Oculus Utilities for working wit
 
 ## Table of Contents
 
+1. [Handy Scripts](#handy-scripts)
+    * [OVRHeadsetDelegate](/Modified_Oculus_Scripts/OVRHeadsetDelegate.cs)
 1. [Modified Oculus Scripts](#modified-oculus-scripts)
     * [OVRScreenFade](/Modified_Oculus_Scripts/OVRScreenFade.cs)
+
+## Handy Scripts
+
+###### OVRHeadsetDelegate
+Handy script for taking advantage of the headset mounted/unmounted actions called by OVRManager for triggering events.
 
 ## Modified Oculus Scripts
 
