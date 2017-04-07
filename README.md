@@ -4,7 +4,7 @@ A collection of scripts written for or modified Oculus Utilities for working wit
 ## Table of Contents
 
 1. [Modified Oculus Scripts](#modified-oculus-scripts)
-    * [OVRScreenFade](/Modified Oculus Scripts/OVRScreenFade.cs)
+    * [OVRScreenFade](/Modified_Oculus_Scripts/OVRScreenFade.cs)
 
 ## Modified Oculus Scripts
 
